@@ -1,0 +1,46 @@
+.header img{
+    width: 300px;
+}
+.header {
+    text-align: center;
+}
+.navbar{
+    border: 2px dashed goldenrod;
+    margin: 0 50px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: black;
+}
+.navbar ul li{
+    display: inline;
+    margin: 0 35px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+    color: yellow;
+}
+.blog{
+    background-color: lightblue;
+    padding: 20px;
+    margin: 50px;
+    border: 3px dotted navy;
+    border-radius: 20px;
+}
+.blog h3{
+    color: navy;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.blog .author{
+    background-color: black;
+    padding: 5px;
+    color: white;
+    font-size: 15px;
+}
+.blog .author .author-name{
+    color: yellow;
+}
+.blog p{
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
